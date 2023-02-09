@@ -1,7 +1,7 @@
 ### Hi👋, I'm Punit Juneja
 
 # 💫 About Me:
-🔭 I’m currently working on [paytm-mall clone](https://github.com/punitjuneja123/damaged-regret-6465)<br>🌱 I’m currently learning Node Backend<br>👨‍💻 All of my projects are available at https://punitjuneja123.github.io/<br>💬 Ask me about HTML, CSS, JS, Node-js, Express, MongoDB<br>📫 How to reach me punitjuneja123@gmail.com
+🔭 I’m currently working on [paytm-mall clone](https://github.com/punitjuneja123/damaged-regret-6465)<br>🌱 I’m currently learning Node Backend<br>👨‍💻 All of my projects are available at https://punitjuneja123.github.io/<br>💬 Ask me about HTML, CSS, JS, Node-js, Express, MongoDB
 
 
 ## 🌐 Socials:
